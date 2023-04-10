@@ -1,0 +1,41 @@
+
+.main_container{
+	width:50%;
+	margin:0 auto;
+}
+.card_section{
+	border:1px solid;
+	margin:200px 200px;
+	width:300px;
+	height:150px;
+	text-align:center;
+	background-color:gray;
+}
+.emoji span{
+	background-color:white;
+	color:red;
+    border-radius:50%;
+	height:50px;
+	width:50px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+.emoji{
+	display:flex;
+	justify-content:center;
+    align-items:center;
+	margin:-25px auto;
+    border:1px solid black;
+	border-radius:50%;
+	height:50px;
+	width:50px;
+
+	
+
+}
+.header h1{
+	padding:10px;
+}
+	
